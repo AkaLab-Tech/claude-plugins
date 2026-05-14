@@ -1,0 +1,41 @@
+{
+  "name": "akalab-tech",
+  "description": "AkaLab-Tech plugin catalog for Claude Code. Lists every plugin published under the AkaLab-Tech organization; each plugin lives in its own repository and is referenced here by its GitHub source.",
+  "owner": {
+    "name": "AkaLab-Tech",
+    "url": "https://github.com/AkaLab-Tech"
+  },
+  "plugins": [
+    {
+      "name": "atelier",
+      "source": {
+        "source": "github",
+        "repo": "AkaLab-Tech/atelier"
+      },
+      "description": "An atelier of AI agents for autonomous software delivery",
+      "homepage": "https://github.com/AkaLab-Tech/atelier",
+      "repository": "https://github.com/AkaLab-Tech/atelier",
+      "category": "automation",
+      "tags": [
+        "agents",
+        "claude-code",
+        "workstation"
+      ]
+    },
+    {
+      "name": "claude-roadmap-tools",
+      "source": {
+        "source": "github",
+        "repo": "AkaLab-Tech/claude-roadmap-tools"
+      },
+      "description": "Standalone Claude Code plugin: ROADMAP / IN_PROGRESS / HISTORY tracking flow with /create-roadmap and /migrate-roadmap",
+      "homepage": "https://github.com/AkaLab-Tech/claude-roadmap-tools",
+      "repository": "https://github.com/AkaLab-Tech/claude-roadmap-tools",
+      "category": "productivity",
+      "tags": [
+        "roadmap",
+        "task-tracking"
+      ]
+    }
+  ]
+}
