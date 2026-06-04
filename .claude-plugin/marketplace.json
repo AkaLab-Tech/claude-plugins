@@ -36,6 +36,22 @@
         "roadmap",
         "task-tracking"
       ]
+    },
+    {
+      "name": "coolify-integration",
+      "source": {
+        "source": "github",
+        "repo": "AkaLab-Tech/coolify-integration"
+      },
+      "description": "Coolify VPS deployment integration for atelier agents — validate, deploy, and manage applications via the Coolify v1 API",
+      "homepage": "https://github.com/AkaLab-Tech/coolify-integration",
+      "repository": "https://github.com/AkaLab-Tech/coolify-integration",
+      "category": "automation",
+      "tags": [
+        "coolify",
+        "deployment",
+        "vps"
+      ]
     }
   ]
 }
