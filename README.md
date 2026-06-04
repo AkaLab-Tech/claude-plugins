@@ -27,6 +27,7 @@ Subsequent additions to this catalog become available with `/plugin marketplace 
 | :--- | :--- | :--- |
 | `atelier` | [AkaLab-Tech/atelier](https://github.com/AkaLab-Tech/atelier) | AI-operated workstation for autonomous software delivery |
 | `claude-roadmap-tools` | [AkaLab-Tech/claude-roadmap-tools](https://github.com/AkaLab-Tech/claude-roadmap-tools) | `ROADMAP / IN_PROGRESS / HISTORY` tracking flow with `/create-roadmap` and `/migrate-roadmap` |
+| `coolify-integration` | [AkaLab-Tech/coolify-integration](https://github.com/AkaLab-Tech/coolify-integration) | Coolify VPS deployment integration for atelier agents (validate, deploy, manage apps) |
 
 ## Add a new plugin to the catalog (maintainers)
 
