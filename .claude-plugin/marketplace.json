@@ -52,6 +52,37 @@
         "deployment",
         "vps"
       ]
+    },
+    {
+      "name": "vercel-integration",
+      "source": {
+        "source": "github",
+        "repo": "AkaLab-Tech/vercel-integration"
+      },
+      "description": "Vercel deployment integration for atelier agents — deploy, inspect, logs, and env vars via the official Vercel CLI",
+      "homepage": "https://github.com/AkaLab-Tech/vercel-integration",
+      "repository": "https://github.com/AkaLab-Tech/vercel-integration",
+      "category": "automation",
+      "tags": [
+        "vercel",
+        "deployment"
+      ]
+    },
+    {
+      "name": "neon-integration",
+      "source": {
+        "source": "github",
+        "repo": "AkaLab-Tech/neon-integration"
+      },
+      "description": "Neon Postgres integration for atelier agents — manage projects, branches, and connection strings via the official Neon CLI",
+      "homepage": "https://github.com/AkaLab-Tech/neon-integration",
+      "repository": "https://github.com/AkaLab-Tech/neon-integration",
+      "category": "automation",
+      "tags": [
+        "neon",
+        "postgres",
+        "database"
+      ]
     }
   ]
 }

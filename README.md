@@ -28,6 +28,8 @@ Subsequent additions to this catalog become available with `/plugin marketplace 
 | `atelier` | [AkaLab-Tech/atelier](https://github.com/AkaLab-Tech/atelier) | AI-operated workstation for autonomous software delivery |
 | `claude-roadmap-tools` | [AkaLab-Tech/claude-roadmap-tools](https://github.com/AkaLab-Tech/claude-roadmap-tools) | `ROADMAP / IN_PROGRESS / HISTORY` tracking flow with `/create-roadmap` and `/migrate-roadmap` |
 | `coolify-integration` | [AkaLab-Tech/coolify-integration](https://github.com/AkaLab-Tech/coolify-integration) | Coolify VPS deployment integration for atelier agents (validate, deploy, manage apps) |
+| `vercel-integration` | [AkaLab-Tech/vercel-integration](https://github.com/AkaLab-Tech/vercel-integration) | Vercel deployment integration for atelier agents (deploy, logs, env, rollback) |
+| `neon-integration` | [AkaLab-Tech/neon-integration](https://github.com/AkaLab-Tech/neon-integration) | Neon Postgres integration for atelier agents (branches, connection strings, projects) |
 
 ## Add a new plugin to the catalog (maintainers)
 
