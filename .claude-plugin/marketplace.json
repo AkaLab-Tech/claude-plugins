@@ -11,8 +11,8 @@
       "source": {
         "source": "github",
         "repo": "AkaLab-Tech/atelier",
-        "ref": "v0.55.0",
-        "sha": "a7224c00350f0b29dcc68ad0946f992a355e98d3"
+        "ref": "v0.56.0",
+        "sha": "ab975459a7d8947c29c7b067932ba3f9b7943589"
       },
       "description": "An atelier of AI agents for autonomous software delivery",
       "homepage": "https://github.com/AkaLab-Tech/atelier",
